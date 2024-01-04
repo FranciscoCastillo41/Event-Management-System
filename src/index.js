@@ -15,12 +15,3 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
-
-// AKIASJJYITHTJXB6ZUWP
-// tr/vZGg/o1p5E7wx76eJcX8IbnteObO4jtMhXwH4
-
-// GraphQL endpoint: https://j7nlrhfvubgghckcddtmyzhxme.appsync-api.us-east-1.amazonaws.com/graphql
-// GraphQL API KEY: da2-4opwjtbpsrf5jnq3d27rzcbbky
-
-// GraphQL endpoint: https://j7nlrhfvubgghckcddtmyzhxme.appsync-api.us-east-1.amazonaws.com/graphql
-// GraphQL API KEY: da2-4opwjtbpsrf5jnq3d27rzcbbky
