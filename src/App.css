@@ -1,0 +1,21 @@
+/* dashboard.css */
+
+.dashboard-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.form-container {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.button-container {
+  flex: 1;
+}
+
+.todo-list-container {
+  flex: 1;
+  margin-top: 20px;
+}
